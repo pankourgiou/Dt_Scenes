@@ -1,2 +1,2 @@
 # Horse
-It's a simple Bot or Not implementation.Enjoy!
+It's a simple comments file
